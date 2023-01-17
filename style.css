@@ -1,0 +1,56 @@
+
+body{background-color:black ;}
+
+.container{font-family: 'Roboto', sans-serif;
+margin-left: 450px;
+margin-top: 50px;
+}
+
+.header{
+background-color: white;
+width: 350px;
+height: 45px;
+display: flex;
+}
+
+.icon1{
+    font-size: 20px;
+    padding-top: 10px;
+    padding-left: 10px;
+}
+.name1{
+    font-size: 11px;
+    
+    padding-left: 5px;
+    
+}
+.icon2{ font-size: 20px;
+padding-left: 230px;
+padding-top: 10px;}
+.footer{
+    display: block;
+    width: 350px;
+    height: 150px;
+    background-color: white;
+}
+.icon3{
+    font-size: 25px;
+    padding-left: 10px;
+    padding-top: 10px;
+    display: flex;
+}
+
+
+
+.likes{
+    padding-top: 10px;
+    padding-left: 10px;
+    font-size: 12px;
+    
+}
+.dp{
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-size: 13px;
+}
